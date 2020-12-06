@@ -21,7 +21,7 @@ namespace ChristmasLogvillage
 	
 
 	public void Start(){
-		gameManager = GameObject.Find("__GameManager").GetComponent("GameManager_Christmas") as GameManager_Christmas;
+		gameManager = GameObject.Find("GameManager").GetComponent("GameManager_Christmas") as GameManager_Christmas;
 	}
 	
 

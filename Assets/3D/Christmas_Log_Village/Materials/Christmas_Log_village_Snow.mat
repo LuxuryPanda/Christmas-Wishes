@@ -33,7 +33,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _RampSmooth: 0.001
-    - _RampThreshold: 0.234
+    - _RampThreshold: 0.248
     - __dummy__: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}

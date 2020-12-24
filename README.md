@@ -1,5 +1,5 @@
 # Christmas-Wishes
-Repository del progetto natalizio del Mattei.
+Progetto natalizio realizzato per PCTO.
 
 ## Installazione
 
@@ -12,4 +12,4 @@ Repository del progetto natalizio del Mattei.
  - [Git](https://git-scm.com/downloads) & [Github Desktop](https://desktop.github.com/)
  - [Unity Hub](https://unity3d.com/get-unity/download)
  - Unity 2020.1.16f1 o superiore (Installabile da UnityHub)
- - [JerBrains Rider](https://www.jetbrains.com/rider/) o [Visual Studio Community](https://visualstudio.microsoft.com/it/vs/community/)
+ - IDE consigliato [JerBrains Rider](https://www.jetbrains.com/rider/) o [Visual Studio Community](https://visualstudio.microsoft.com/it/vs/community/)
